@@ -3,9 +3,9 @@
 Welcome to my GitHub profile! I'm a Software Developer with a passion for creating web applications and softwares that provide real world solutions.
 
 ## 🔭 What I'm Currently Working On
-- A virtual chemistry laboratory Application: A desktop application where chemistry students can simulate experiments from lecture notes and textbooks, complete exercises set by their lecturers and keep track of their progress.
+- A virtual chemistry laboratory Application: A desktop application where chemistry students can simulate experiments from lecture notes and textbooks, complete exercises set by their lecturers and keep track of their progress as well as the admin dashboard to maintain all data and profiles. 
 - A web site with links to several web applications: This will be a revamp of the official website [theupfolio.com](https://theupfolio.com) with other web applictions.
-- A portfolio web application : A web application displaying a person's portfolio, powered by uupfolio.
+- A portfolio web application : A web application displaying a person's portfolio, powered by Upfolio.
 
 ## 🌱 What I'm Currently Learning
 - C/C++
@@ -17,9 +17,9 @@ Welcome to my GitHub profile! I'm a Software Developer with a passion for creati
 - Frontend Development
 
 ## 📫 How to Reach Me
-- Email: [toluwalope.david@gmail.com]
-- LinkedIn: [https://linkedin/in/olujimi-david]
-- Twitter: [jhimmie_]
+- Email: [toluwalope.david@gmail.com](mailto:toluwalope.david@gmail.com)
+- LinkedIn: [https://linkedin/in/olujimi-david](https://linkedin/in/olujimi-david)
+- Twitter: [jhimmie_](https://x.com/Jhimmie_)
 
 ## 📂 Projects
 Here are a few projects I've been working on:
@@ -32,10 +32,10 @@ Here are a few projects I've been working on:
 - Databases: ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 - Tools and Platforms: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical) -->
 
 ## ✨ Fun Facts
 - I'm a violinist
@@ -43,6 +43,6 @@ Here are a few projects I've been working on:
 - I prefer movies to games
 
 ## 🤝 Let's Connect!
-Feel free to connect with me on [LinkedIn](https://linkedin/in/olujimi-david) or follow me on [Twitter](jhimmie_) to stay updated.
+Feel free to connect with me on [LinkedIn](https://linkedin/in/olujimi-david) or follow me on [Twitter](https://x.com/Jhimmie_) to stay updated.
 
 Thank you for visiting my profile!
